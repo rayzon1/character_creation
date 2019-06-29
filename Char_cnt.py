@@ -12,9 +12,7 @@ def count_char(text, char):
     return count
 
 file = open("new_text.txt", "w")
-file.write("""fuck your mother, motherfucker fuck your mother, motherfucker
-	fuck your mother, motherfuckerfuck your mother, motherfuckerfuck your mother, motherfucker
-	fuck your mother, motherfuckerfuck your mother, motherfucker""")
+file.write("""Hello World, Hello World, Hello World, Hello World, Hello World, Hello World,Hello World,Hello World,Hello World,Hello World,Hello World,""")
 
 file.close()
 
